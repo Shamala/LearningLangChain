@@ -1,0 +1,22 @@
+{
+  "name": "semantic-search",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "node": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backend": ""
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.42",
+    "@langchain/google-vertexai": "^0.2.9",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.25",
+    "pdf-parse": "^1.1.1"
+  }
+}

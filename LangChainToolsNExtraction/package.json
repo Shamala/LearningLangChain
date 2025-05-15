@@ -1,0 +1,23 @@
+{
+  "name": "langchain-tools",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "node": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "init": "",
+    "npm": "",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.55",
+    "@langchain/google-genai": "^0.2.9",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.25"
+  }
+}
